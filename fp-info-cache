@@ -1,4 +1,4 @@
-23900955003898523
+23925340037192407
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54691,12 +54691,33 @@ SMD SMT ceramic resonator filter filter hand-soldering
 3
 3
 Custom
+0402_SquarePaste
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Custom
 7111S2015X02LF
 Hinged SIM card holder
 SIM card holder flip
 0
 6
 6
+Custom
+294645-E Connector TE
+
+
+0
+6
+2
+Custom
+1989887
+1989887-1
+Connector
+0
+16
+16
 Custom
 AD9245BCPZ-80
 
@@ -54740,12 +54761,61 @@ CASE_512AK
 4
 4
 Custom
+CUI_PJ-082BH
+
+
+0
+6
+3
+Custom
+CUI_UJ2-BH-2-TH
+USB Type B, Right Angle
+
+0
+6
+5
+Custom
 DB9 SMD 2.74
 
 
 0
 13
 9
+Custom
+DBV5_TEX
+
+TPS70912DBVR 
+0
+5
+5
+Custom
+D_SOD-123-SquarePaste
+SOD-123
+SOD-123
+0
+2
+2
+Custom
+HTSSOP24_PWP-T_TEX
+
+PDRV81008QPWPRQ1 
+0
+25
+25
+Custom
+HTSSOP24_PWP-T_TEX-L
+
+PDRV81008QPWPRQ1 
+0
+25
+25
+Custom
+HTSSOP24_PWP-T_TEX-M
+
+PDRV81008QPWPRQ1 
+0
+25
+25
 Custom
 JUSHUO_AFC07-S40
 
@@ -54781,6 +54851,13 @@ MS0420
 0
 2
 2
+Custom
+Microfluidic_MigrationA
+
+
+0
+3
+3
 Custom
 Microfluidic_Pump_550um_150um
 
@@ -54859,6 +54936,13 @@ OSHW_logo
 0
 0
 Custom
+SAMESKY_UJ20-C-H-G-SMT-5-P16-TR
+
+
+0
+16
+11
+Custom
 SIM-104
 
 
@@ -54935,6 +55019,20 @@ VQFN-20_EP_3.5x4.5_Pitch0.5mm
 0
 36
 21
+Custom
+VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm
+VQFN, 32 Pin (http://ww1.microchip.com/downloads/en/devicedoc/atmel-9520-at42-qtouch-bsw-at42qt1110_datasheet.pdf#page=42), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+37
+33
+Custom
+Wafer - 4in
+
+
+0
+1
+1
 Custom
 cat
 
